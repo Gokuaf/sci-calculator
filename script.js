@@ -1,11 +1,11 @@
-let screen = document.getElementById("screen");
+// let screen = document.getElementById("screen");
 
-function press(numvalue){
-  if(screen.value == 0){
-    screen.value = "";
-  }
-  screen.value += numvalue;
-}
+// function press(numvalue){
+//   if(screen.value == 0){
+//     screen.value = "";
+//   }
+//   screen.value += numvalue;
+// }
 
 
 // function to clear the screen
